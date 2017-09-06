@@ -1,0 +1,5 @@
+*.o
+preprocess
+.ipynb_checkpoints/*
+*.jpg
+
