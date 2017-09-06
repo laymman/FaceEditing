@@ -1,0 +1,6 @@
+vim ~/.bashrc
+add "export LD_LIBRARY_PATH=path/to/this/directory/face_preprocess/lib/x64::$LD_LIBRARY_PATH" to the last line
+sudo ldconfig
+
+make all
+run GUI.ipynb
